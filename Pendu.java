@@ -11,7 +11,7 @@ public class Pendu {
 	private ArrayList<String> erreurs = new ArrayList<String>();
 	
 	public Pendu() {
-		motMystere = "polymorphisme";
+		motMystere = "polymorphisme xlt";
 		//au démarrage, le motATrous contient un caractère spécial répété length fois
 		motATrous = new StringBuilder("?".repeat(motMystere.length()));
 		compteur = 0;
